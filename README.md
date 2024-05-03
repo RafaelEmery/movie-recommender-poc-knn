@@ -2,7 +2,7 @@
 
 Using KNN (K Nearest Neighbors) to build a proof of concept to a simple movie recommendation system :chart_with_upwards_trend:
 
-**This PoC was for AI discipline**.
+**This PoC (Proff of Concept) was for AI discipline**.
 
 References:
 
